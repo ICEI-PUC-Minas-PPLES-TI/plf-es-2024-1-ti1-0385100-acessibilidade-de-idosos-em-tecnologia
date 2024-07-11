@@ -11,7 +11,7 @@ Atualmente, a falta de acessibilidade dos idosos às novas tecnologias é um des
 
 ## Professores responsáveis
 
-* Romeu Viera Carneiro 
+* Rommel Vieira Carneiro 
 * Simone Alves Nogueira
 
 ## Instruções de utilização
