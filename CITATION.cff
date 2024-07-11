@@ -1,31 +1,27 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Acessibilidade de Idosos em Tecnologia
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Santos Alcici Curi
+    given-names: Alexandre 
+  - family-names: Moreira João
+    given-names: Rafael
+  - family-names: Masato Hirashima Bernardes
+    given-names: Raphael
+  - family-names: Amaral Guimaraes de Lima Souza
+    given-names: Victor
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Vieira Carneiro
+    given-names: Rommel 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Alves Nogueira
+    given-names: Simone
 keywords:
-  - 
-  - 
-repository-code: 
+  - Acessibilidade
+  - Idosos
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385100-acessibilidade-de-idosos-em-tecnologia/tree/master
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-07-14
